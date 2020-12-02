@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on anything Bitcoin related.
 - 💬 Ask me about VRChat, BTCPay, Bitcoin, Unity and Windows x)
 - 📫 How to reach me: @bitpaintclub on twitter @bitpaint on telegram.
-- ⚡ Fun fact: you can tip a sat! https://tip.bitpaint.club
+- ⚡ Fun fact: you can tip a sat! tip.bitpaint.club
 - 🇫🇷 I'm French! 
