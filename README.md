@@ -1,6 +1,6 @@
 ### Sup freaks? 👋
 
-- 🔭 I’m currently working on Bitcoin artistic projects ranging fromstreet art to VR
+- 🔭 I’m currently working on Bitcoin artistic projects ranging from street art to VR
 - 🌱 I love gource
 - 👯 I’m looking to collaborate on anything Bitcoin related.
 - 💬 Ask me about VRChat, BTCPay, Bitcoin, Unity and Windows x)
