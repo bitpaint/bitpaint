@@ -1,4 +1,4 @@
-### Sup freaks? 👋
+### Hey hey hey! 👋
 
 - 🔭 I’m currently working on Bitcoin artistic projects ranging from street art to VR
 - 🌱 I love gource
