@@ -1,4 +1,4 @@
-### Hey hey hey! 👋
+### Bonjour 👋
 
 - 🔭 I’m currently working on Bitcoin artistic projects ranging from street art to VR
 - 🌱 I love gource
