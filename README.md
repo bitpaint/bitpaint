@@ -1,10 +1,19 @@
 ### Bonjour 👋
 
-- 🔭 I’m currently working on Bitcoin artistic projects ranging from street art to VR
-- 🌱 I love gource
-- 👯 I’m looking to collaborate on anything Bitcoin related.
-- 💬 Ask me about Gource, VRChat, BTCPay, Bitcoin, Unity and... Windows x)
-- 📫 How to reach me: @bitpaintclub on twitter @bitpaint on telegram.
-- ⚡ Fun fact: you can tip at https://mempool.ninja/address/1PAiNT1RvBq3hZf3M8Qj2ZQCcW7cvc4Njw 
+![Bitcoin Projects](https://img.shields.io/badge/Bitcoin-Art%20%26%20Tech-orange?logo=bitcoin)
+![Gource Lover](https://img.shields.io/badge/Gource-Visualizer-blueviolet?logo=visual-studio-code)
+![VR Enthusiast](https://img.shields.io/badge/VRChat-Creator-ff69b4?logo=steam)
+![BTCPay Integrator](https://img.shields.io/badge/BTCPay-Enabled-brightgreen?logo=btcpayserver)
+![Unity Dev](https://img.shields.io/badge/Unity-Game%20Dev-black?logo=unity)
+![Node.js Dev](https://img.shields.io/badge/Node.js-Coder-green?logo=node.js)
+![Expo Go](https://img.shields.io/badge/Expo-Go-blue?logo=expo)
+![Windows Tinkerer](https://img.shields.io/badge/Windows-PowerUser-blue?logo=windows)
 
-Learn more a https://bitpaint.club
+---
+
+- 🎨 Working on **Bitcoin x Art** — from street murals to immersive **VR scenes**
+- ⚙️ Coding with **Node.js**, **Expo Go**, **React Native**, and **Unity**
+- 🌱 Open-source visual addict — **Gource** FTW  
+- 🧠 Ask me about: **Bitcoin**, **Gource**, **BTCPay**, **VRChat**, **Unity**, or weird **Windows hacks** 😅  
+- 📈 Contributed to over **50+ projects**, forked **40+ Bitcoin repos**, visualized **100k+ commits**
+- 📫 Hit me up: [@bitpaintclub on 𝕏](https://x.com/bitpaintclub) · [@bitpaint on Telegram](https://t.me/bitpaint)
