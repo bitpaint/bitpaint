@@ -15,5 +15,4 @@
 - ⚙️ Coding with **Node.js**, **Expo Go**, **React Native**, and **Unity**
 - 🌱 Open-source visual addict — **Gource** FTW  
 - 🧠 Ask me about: **Bitcoin**, **Gource**, **BTCPay**, **VRChat**, **Unity**, or weird **Windows hacks** 😅  
-- 📈 Contributed to over **50+ projects**, forked **40+ Bitcoin repos**, visualized **100k+ commits**
 - 📫 Hit me up: [@bitpaintclub on 𝕏](https://x.com/bitpaintclub) · [@bitpaint on Telegram](https://t.me/bitpaint)
